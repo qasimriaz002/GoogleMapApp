@@ -1,0 +1,9 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 155 ciObject found
+ciMethod java/util/Vector <init> (II)V 1617 1 202 0 -1
+ciMethod java/util/Vector <init> (I)V 1617 1 202 0 -1
+ciMethod java/util/Vector <init> ()V 1617 1 202 0 -1
+ciMethod java/util/Vector size ()I 1081 1 135 0 -1
+ciMethod 

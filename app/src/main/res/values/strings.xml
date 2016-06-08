@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Map App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_openMap">Open Maps Activity</string>
+    <string name="title_activity_splash_screen">" "</string>
+    <string name="title_activity_splash_screen_activity">" "</string>
+</resources>
